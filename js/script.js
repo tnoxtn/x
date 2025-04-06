@@ -1,2 +1,2 @@
 console.log('new test');
-console.log('versionXY');
+console.log('versionX');
